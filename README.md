@@ -1,6 +1,6 @@
 # about-me
 
 ## Repository Links
-* [Repo](https://github.com/Hughesterrence76/about-me/edit)
+* [](https://github.com/Hughesterrence76/about-me/edit)
 
-* [Page]()
+* [](https://hughesterrence76.github.io/about-me/)
